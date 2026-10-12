@@ -247,7 +247,11 @@ ai/                             # Genuine Kiro AI session exports
 
 ---
 
-## AI tooling
+## Development tools
 
-This project was developed with **Kiro**, an AI-powered IDE built on VS Code.
-See [CLAUDE.md](CLAUDE.md) for full AI tool disclosure and session records.
+* **IDE:** IntelliJ IDEA
+* **Language:** Java 17
+* **Build tool:** Maven
+* **AI assistance:** Kiro was used for AI-assisted development and code review.
+
+See [CLAUDE.md](CLAUDE.md) for the full AI tooling disclosure and session records.
