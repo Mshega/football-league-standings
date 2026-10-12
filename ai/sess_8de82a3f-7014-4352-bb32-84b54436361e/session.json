@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "dataModelVersion": 1,
+  "id": "sess_8de82a3f-7014-4352-bb32-84b54436361e",
+  "title": "Football League Standings — Final Audit",
+  "agentMode": "vibe",
+  "workspacePaths": [
+    "c:\\Users\\Mshega\\Documents\\Projects\\football-league-standings"
+  ],
+  "rootPaths": [
+    "c:\\Users\\Mshega\\Documents\\Projects\\football-league-standings"
+  ],
+  "createdAt": "2026-10-12T13:05:38.678Z",
+  "lastModifiedAt": "2026-10-12T16:12:57.528Z",
+  "modelId": "auto",
+  "contextSnapshotModelDisplay": {
+    "modelId": "auto",
+    "display": "Auto (model selected dynamically on the server)"
+  },
+  "semanticReviewEnabled": true,
+  "disableAutoCompaction": false,
+  "ftaEnabled": false,
+  "workflowsEnabled": false,
+  "specPlanEnabled": false,
+  "specWorkflow": "quick",
+  "specSkipClarificationEnabled": true,
+  "description": "Running a pre-commit submission audit: checking file structure, artefact content, git status, and identifying any missing or risky items.",
+  "status": "idle",
+  "_meta": {
+    "kiro": {
+      "policyPreset": [
+        "edit-workspace"
+      ],
+      "shellType": "powershell"
+    }
+  }
+}
