@@ -9,7 +9,7 @@ software engineering assessment. Written by the developer.
 
 | Field      | Value                                              |
 |------------|----------------------------------------------------|
-| AI tool    | Kiro IDE (AWS, VS Code-based)                      |
+| AI tool    | Kiro IDE (IntelliJ IDEA)                      |
 | Project    | Football League Standings calculator               |
 | Stack      | Java 17, Maven, JUnit 5                            |
 | Objective  | Production-quality CLI app with historical CSV data, tests, and documented AI usage |
